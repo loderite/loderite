@@ -7,6 +7,10 @@ lattice. Every block has 14 faces: 6 squares and 8 hexagons. Blocks meet face-to
 lattice that has no 90-degree grid, so builds lean, interlock and curve in ways a cube world
 cannot reach. It runs in the browser, installs as a PWA, and works offline.
 
+![A Loderite landscape built from truncated octahedra: rolling green terrain and trees whose
+hexagonal faces catch the light, a stone-and-glass shelter at the centre, and the demo arena's
+boundary pillars rising into a pale sky.](demo-wide.png)
+
 **Play:** https://loderite.app
 
 ---
