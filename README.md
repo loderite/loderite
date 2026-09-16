@@ -1,11 +1,15 @@
 # Loderite
 
-A creative-mode voxel game where the blocks are not cubes.
+<!-- pitch:start (generated from src/pitch.ts) -->
 
-Loderite is built on **truncated octahedra** -- the space-filling cell of the body-centred cubic
+A voxel game where the blocks are not cubes.
+
+Loderite is built on truncated octahedra, the space-filling cell of the body-centred cubic
 lattice. Every block has 14 faces: 6 squares and 8 hexagons. Blocks meet face-to-face in a
 lattice that has no 90-degree grid, so builds lean, interlock and curve in ways a cube world
 cannot reach. It runs in the browser, installs as a PWA, and works offline.
+
+<!-- pitch:end -->
 
 ![A Loderite landscape built from truncated octahedra: rolling green terrain and trees whose
 hexagonal faces catch the light, a stone-and-glass shelter at the centre, and the demo arena's
